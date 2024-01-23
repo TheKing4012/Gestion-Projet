@@ -9,6 +9,9 @@ ex: un IA disponible sur moodle qui peut expliquer une formule du cours qui est 
 **Les papiers:** Leur lecture peut être commencé à partir de mi-Mars / fin mars.
 
 **LLM:** 
+- Encoder: s'occupe de l'input (détecter les mots en entier via par exemple le système BERT)
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE1ODAwNDExLC04Njc3MjE5MTBdfQ==
+eyJoaXN0b3J5IjpbLTEzNDk1NjcwMzQsODE1ODAwNDExLC04Nj
+c3MjE5MTBdfQ==
 -->
