@@ -12,12 +12,12 @@ ex: un IA disponible sur moodle qui peut expliquer une formule du cours qui est 
 - Encoder: s'occupe de l'input (détecter les mots en entier via par exemple le système BERT)
 
 
-Todo projet: 
+**Todo projet: **
 Faire une application web qui se base sur bien être étudiant. (anxiété ? ponctuel lié aux examen ? lié aux traits de personalités ? )
 
 - Est ce qu'on demande des infos persos à la personnes des infos de genre ? Ou alors dirrectement demander comment ça va ?
 - Utiliser une échelle de 1 à 10 ou des smileys 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTQzMjc3MDcsLTEzNDk1NjcwMzQsOD
-E1ODAwNDExLC04Njc3MjE5MTBdfQ==
+eyJoaXN0b3J5IjpbNzgzNDA4MTAxLC0yMDE0MzI3NzA3LC0xMz
+Q5NTY3MDM0LDgxNTgwMDQxMSwtODY3NzIxOTEwXX0=
 -->
