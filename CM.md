@@ -10,8 +10,13 @@ ex: un IA disponible sur moodle qui peut expliquer une formule du cours qui est 
 
 **LLM:** 
 - Encoder: s'occupe de l'input (détecter les mots en entier via par exemple le système BERT)
-- 
+
+
+Todo projet: 
+Faire une application web qui se base sur bien être étudiant. (anxiété ? ponctuel lié aux examen ? lié aux traits de personalités ? )
+
+- Est ce qu'on demande des infos persos à la personnes des infos de genre ? OU alors dirrectement demander 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDk1NjcwMzQsODE1ODAwNDExLC04Nj
-c3MjE5MTBdfQ==
+eyJoaXN0b3J5IjpbMjAxNTE1NTI1MywtMTM0OTU2NzAzNCw4MT
+U4MDA0MTEsLTg2NzcyMTkxMF19
 -->
